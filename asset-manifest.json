@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tenor-page/static/css/main.39c26814.chunk.css",
+    "main.js": "/Tenor-page/static/js/main.0efa8904.chunk.js",
+    "main.js.map": "/Tenor-page/static/js/main.0efa8904.chunk.js.map",
+    "runtime-main.js": "/Tenor-page/static/js/runtime-main.1a17c0a5.js",
+    "runtime-main.js.map": "/Tenor-page/static/js/runtime-main.1a17c0a5.js.map",
+    "static/js/2.0ed51de1.chunk.js": "/Tenor-page/static/js/2.0ed51de1.chunk.js",
+    "static/js/2.0ed51de1.chunk.js.map": "/Tenor-page/static/js/2.0ed51de1.chunk.js.map",
+    "static/js/3.739da3eb.chunk.js": "/Tenor-page/static/js/3.739da3eb.chunk.js",
+    "static/js/3.739da3eb.chunk.js.map": "/Tenor-page/static/js/3.739da3eb.chunk.js.map",
+    "index.html": "/Tenor-page/index.html",
+    "static/css/main.39c26814.chunk.css.map": "/Tenor-page/static/css/main.39c26814.chunk.css.map",
+    "static/js/2.0ed51de1.chunk.js.LICENSE.txt": "/Tenor-page/static/js/2.0ed51de1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a17c0a5.js",
+    "static/js/2.0ed51de1.chunk.js",
+    "static/css/main.39c26814.chunk.css",
+    "static/js/main.0efa8904.chunk.js"
+  ]
+}
