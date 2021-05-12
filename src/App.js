@@ -16,7 +16,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 function App() {
 
   return (
-    <Router>
+    <Router basename='Tenor-page'>
       <div className="App">
 
         <Header />
