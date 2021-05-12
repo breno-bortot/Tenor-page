@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tenor-page/static/css/main.39c26814.chunk.css",
-    "main.js": "/Tenor-page/static/js/main.0efa8904.chunk.js",
-    "main.js.map": "/Tenor-page/static/js/main.0efa8904.chunk.js.map",
+    "main.js": "/Tenor-page/static/js/main.759fb60d.chunk.js",
+    "main.js.map": "/Tenor-page/static/js/main.759fb60d.chunk.js.map",
     "runtime-main.js": "/Tenor-page/static/js/runtime-main.1a17c0a5.js",
     "runtime-main.js.map": "/Tenor-page/static/js/runtime-main.1a17c0a5.js.map",
     "static/js/2.0ed51de1.chunk.js": "/Tenor-page/static/js/2.0ed51de1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a17c0a5.js",
     "static/js/2.0ed51de1.chunk.js",
     "static/css/main.39c26814.chunk.css",
-    "static/js/main.0efa8904.chunk.js"
+    "static/js/main.759fb60d.chunk.js"
   ]
 }
